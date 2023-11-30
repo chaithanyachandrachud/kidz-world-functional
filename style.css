@@ -10,7 +10,7 @@ body {
 }
 
 .books {
-  max-width: 200px;
+  max-width: 300px;
 }
 
 .games,
@@ -146,7 +146,7 @@ h2 {
 }
 
 .container {
-  flex-wrap: wrap;
+  flex-wrap: wrap-reverse;
 }
 
 @media only screen and (max-width: 600px) {
